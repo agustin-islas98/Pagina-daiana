@@ -344,6 +344,18 @@ body.modal-open {
   text-align: center;
   padding: 20px 0;
 }
+
+.contenedor{
+  display: inline-block;
+  width: 330px;
+  height: 330px;
+}
+.imagen{
+  object-fit: contain;
+  width: 400px;
+  height: 100%;
+}
+
 .skills .fila {
   display: flex;
 }
